@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.parent {
+    color: blue;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="parent">
+    This is parent text
+    <p>This text inherits color and size</p>
+</div>
+
+</body>
+</html>
