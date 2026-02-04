@@ -1,0 +1,15 @@
+@keyframes move {
+  from {
+    transform: translateX(0px);
+  }
+  to {
+    transform: translateX(100px);
+  }
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: red;
+  animation: move 2s infinite;
+}
