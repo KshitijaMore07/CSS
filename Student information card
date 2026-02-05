@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.card{
+    width:250px;
+    padding:15px;
+    background:lightblue;
+    margin:auto;
+    border-radius:8px;
+    text-align:center;
+}
+</style>
+</head>
+<body>
+<div class="card">
+    <h3>Student Info</h3>
+    Name: Amit<br>
+    Roll No: 12<br>
+    Class: SY
+</div>
+</body>
+</html>
