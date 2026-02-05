@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+button{
+    padding:10px 20px;
+    background:blue;
+    color:white;
+    border:none;
+}
+button:hover{
+    background:darkblue;
+}
+</style>
+</head>
+<body>
+<button>Click Me</button>
+</body>
+</html>
