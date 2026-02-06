@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.notice{width:300px;margin:auto;background:lightyellow;padding:15px;}
+</style>
+</head>
+<body>
+<div class="notice">
+<h3>Notice</h3>
+<ul>
+<li>Exam on Monday</li>
+<li>Project submission</li>
+</ul>
+</div>
+</body>
+</html>
