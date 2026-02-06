@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.card{width:200px;text-align:center;background:#ddd;padding:15px;margin:auto;}
+</style>
+</head>
+<body>
+<div class="card">
+<img src="https://via.placeholder.com/80"><br>
+<b>Amit</b><br>
+Student
+</div>
+</body>
+</html>
