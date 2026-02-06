@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+footer{background:black;color:white;text-align:center;padding:10px;}
+</style>
+</head>
+<body>
+<footer>© 2026 College Name</footer>
+</body>
+</html>
